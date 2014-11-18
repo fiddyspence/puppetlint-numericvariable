@@ -2,4 +2,4 @@
 
 [![Build Status](https://travis-ci.org/fiddyspence/puppetlint-numericvariable.png?branch=master)](https://travis-ci.org/fiddyspence/puppetlint-numericvariable)
 
-The future parser disallows numeric variables
+The future parser disallows numeric variables, so let's check them before we upgrade
