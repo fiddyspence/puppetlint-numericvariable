@@ -1,7 +1,7 @@
 Gem::Specification.new do |spec|
-  spec.name        = 'puppet-lint-numeric_variable'
+  spec.name        = 'puppet-lint-numericvariable'
   spec.version     = '1.0.0'
-  spec.homepage    = 'https://github.com/fiddyspence/puppetlint-numeric_variable'
+  spec.homepage    = 'https://github.com/fiddyspence/puppetlint-numericvariable'
   spec.license     = 'MIT'
   spec.author      = 'Chris Spence'
   spec.email       = 'chris@spence.org.uk'
@@ -21,5 +21,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec', '~> 3.0'
   spec.add_development_dependency 'rspec-its', '~> 1.0'
   spec.add_development_dependency 'rspec-collection_matchers', '~> 1.0'
-  spec.add_development_dependency 'rake'
+  spec.add_development_dependency 'rake', '~> 0'
 end
