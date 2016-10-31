@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name        = 'puppet-lint-numericvariable'
-  spec.version     = '1.0.1'
+  spec.version     = '1.0.2'
   spec.homepage    = 'https://github.com/fiddyspence/puppetlint-numericvariable'
   spec.license     = 'MIT'
   spec.author      = 'Chris Spence'
